@@ -1,0 +1,24 @@
+{
+    "onBording_title1" : "مرحبا",
+    "onBording_title2" : "طب الاسنان",
+    "onBording_title3" : "التجميل",
+    "onBording_title4" : "الكورسات التعليميه",
+    "onBording_desc1" : "اهلا بك في مركز فاملي لطب الاسنان و التجميل",
+    "onBording_desc2" : "كل ما يخص طب الاسنان على يد امهر الاطباء في كربلاء",
+    "onBording_desc3" : "طب التجميل باحدث الاجهزة و بكوادر متميزة",
+    "onBording_desc4" : "الكورسات التدريبة علي يد افضل الاساتذة في طب الاسنان",
+    "onBording_button_title" : "ابدء",
+    "navbar_title1" : "الرئيسية",
+    "navbar_title2" : "طب الاسنان",
+    "tab_title1" : "اخر العروض",
+    "tab_title2" : "الاكثر طلبا",
+    "tab_title3" : "المفضلة",
+    "section_title1" : "افضل العروض",
+    "section_title2" : "اخر العروض",
+    "flag_title1" : "طب الاسنان",
+    "flag_title2" : "التجميل",
+    "flag_title3" : "الكورسات",
+    "time_minute" : "دقيقة",
+    "date_day" : "يوم"
+
+}  
